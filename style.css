@@ -1,0 +1,10 @@
+#heading{
+	font-family: 'Merienda', cursive;
+	font-size: 300%;
+	text-align: center;
+}
+body {
+	background-image: url('NewBG5.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	}
